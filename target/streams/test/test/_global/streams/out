@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(yoppworks.hackerchallenges.bundlepricing.test.BundlePricingServiceSpecs, org.scalatest.tools.Framework$$anon$1@4458f326, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBundlePricingServiceSpecs:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA Bundle Pricing Service[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should find the lowest possible price ; Simple bundle case : 1 apple 1.99 , 2 apples 2.15 *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Success(1.00) was not equal to Success(1.99) (BundlePricingServiceSpecs.scala:45)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should find the lowest possible price ; More complex bundle case : 1 bread + 2 magarines, the 2nd margarine is free *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Success(1.00) was not equal to Success(5.50) (BundlePricingServiceSpecs.scala:75)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should find the lowest possible price ; Complex cart where multiple bundle types can be found *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Success(1.00) was not equal to Success(7.49) (BundlePricingServiceSpecs.scala:97)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should Fail with InvalidCartException if consumer pass a Cart with invalid catalog item(s) *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Success(1.00) was not equal to Failure(yoppworks.hackerchallenges.bundlepricing.BundlePricingDomain$InvalidCartException$) (BundlePricingServiceSpecs.scala:131)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should be able to detect invalid cart *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  true was not false (BundlePricingServiceSpecs.scala:140)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 427 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 0, failed 5, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 5 TESTS FAILED ***[0m[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	yoppworks.hackerchallenges.bundlepricing.test.BundlePricingServiceSpecs[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m
