@@ -1,0 +1,32 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/hhayk/Projects/interview/yoppworks/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePromotions$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingUtil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain$CatalogItem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePromotions$MaybeDiscountedItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePromotions$MaybeDiscountedItem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain$Price.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain$CartItem$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain$CatalogItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePromotions$BundleDiscountOnItemUnitPrice$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePromotions$BundleTotalPriceDiscount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	App$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain$Quantity.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePromotions$BundleTotalPriceDiscount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain$CartItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain$Price$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePromotions$BundleDiscountOnItemUnitPrice.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain$Cart$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	App.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain$BundlePromotion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain$Cart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePromotions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain$Quantity$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingUtil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BundlePricingDomain$InvalidCartException$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/hhayk/Projects/interview/yoppworks/target/scala-2.12/classes.bak[0m
